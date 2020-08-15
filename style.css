@@ -1,0 +1,30 @@
+h1{
+	color:#CE0707;
+	font-family:verdana;
+	font-size:400%;
+	text-align:center;
+	text-transform:uppercase;
+	
+	
+	border-style:groove;
+	border-color:#CE0707;
+	border-left:none;
+	border-right:none;
+	
+}
+#input{
+	color:#E57200;
+	font-family:calibri;
+	font-size:150%;
+	text-align:center;
+	
+	
+}
+#footer{
+	color:#E57200;
+	font-family:calibri;
+	font-size:150%;
+	text-align:center;
+	
+	
+}
